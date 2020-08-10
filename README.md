@@ -13,8 +13,9 @@
 
 ### Connect with me:
 
-[Facebook](https://www.facebook.com/tomasz.kundys)
-[Linkeln](https://www.linkedin.com/in/tomasz-kundys-b026331aa/)
+[Facebook](https://www.facebook.com/tomasz.kundys) <br />
+[Linkeln](https://www.linkedin.com/in/tomasz-kundys-b026331aa/)<br />
+[Gmail](tomasz.kundys@gmail.com)
 
 ### Languages and Tools which I use to my projects:
 
