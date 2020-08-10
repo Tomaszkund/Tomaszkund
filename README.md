@@ -1,7 +1,7 @@
 ## Hello, I'm Tomasz 👋
 
 ### I'm an IT student! 🎓  
-- 👀 I’m looking a job to practise my skills.
+- 👀 I'm looking for a job to practice my skills.
 - ⚡ My Goals to 2020: Learn React, Gatsby, Node.js 
 - 🧠 Something about me: 
 ✔️ Sport 
