@@ -14,7 +14,7 @@
 ### Connect with me:
 
 [Facebook](https://www.facebook.com/tomasz.kundys)
-[Linkeln] (https://www.linkedin.com/in/tomasz-kundys-b026331aa/)
+[Linkeln](https://www.linkedin.com/in/tomasz-kundys-b026331aa/)
 
 ### Languages and Tools:
 
