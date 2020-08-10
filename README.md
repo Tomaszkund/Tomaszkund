@@ -41,9 +41,8 @@
 
 #### I also know some JS libraries and npm packages :)
 
+<br />
 
-<br />
-<br />
 
 ### Languages and Tools which I want to use in future:
 
