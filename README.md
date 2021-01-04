@@ -4,7 +4,7 @@
 
 ### I'm an IT student! 🎓  
 - 👀 I'm looking for a job to practice my skills.
-- ⚡ My Goals to 2020: Learn React, Gatsby, Node.js 
+- ⚡ My Goals to 2021: Learn React, Gatsby, Node.js 
 - 🧠 Something about me: 
 ✔️ Sport 
 ✔️ Movies 50's to now 
