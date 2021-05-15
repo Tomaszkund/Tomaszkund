@@ -1,6 +1,6 @@
 ## Hello, I'm Tomasz 👋
 
-# [Portfolio](https://tomaszkund.github.io/PortfolioWeb/) 🖥️
+# [Portfolio](https://tomaszkund.github.io/PortfolioWeb/) 🖥️ 👈
 
 ### I'm an IT student! 🎓  
 - 👀 I'm looking for a job to practice my skills.
